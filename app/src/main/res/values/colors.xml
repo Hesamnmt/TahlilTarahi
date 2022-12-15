@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray">#e9ecef</color>
+    <color name="pink">#f72585</color>
+    <color name="blue_back">#90caf9</color>
+    <color name="blue_font">#0d47a1</color>
+    <color name="pink2">#fff0f3</color>
+    <color name="orange">#f86624</color>
+    <color name="green_mad">#52b788</color>
+    <color name="green_mad2">#74c69d</color>
+    <color name="green_back">#d8f3dc</color>
+    <color name="green_font">#2d6a4f</color>
+    <color name="yello_btn">#d9ed92</color>
+    <color name="red">#d62828</color>
+    <color name="red1">#a4133c</color>
+    <color name="red2">#c9184a</color>
+    <color name="red3">#ff4d6d</color>
+    <color name="red4">#ff5d8f</color>
+    <color name="colorPrimary">#199d5d</color>
+    <color name="colorPrimaryDark">#2d6948</color>
+    <color name="colorAccent">#12cb80</color>
+    <color name="texts">#484c4f</color>
+    <color name="border">#dde6ea</color>
+    <color name="yellow">#FFD700</color>
+    <color name="white_seen">#DBD9D9</color>
+    <color name="white_seen2">#F7F6F6F6</color>
+    <color name="green_box">#2FAD3B</color>
+    <color name="red_box">#bb0024</color>
+    <color name="BackGround">#eff0f5</color>
+    <color name="chat1">#1ce7ba</color>
+    <color name="chat6">#801215</color>
+    <color name="trans_text">#A1A5AA</color>
+    <color name="dark_blue">#2f2f80</color>
+    <color name="light_red">#B8696C</color>
+    <color name="light_blue">#0A81F3</color>
+    <color name="border_et">#d1cdc8</color>
+    <color name="backOfSpace">#F6F7F9</color>
+
+    <color name="color_green">#4CBF48</color>
+
+    <color name="color_blues">#3DC9C3</color>
+
+    <color name="color_bluee">#6FCFC0</color>
+
+    <color name="color_oranges">#EB8948</color>
+
+    <color name="color_orangee">#F4A55C</color>
+
+    <color name="color_red1">#D94E53</color>
+
+    <color name="color_red2">#F15E5E</color>
+
+    <color name="color_navy1">#4A7BBD</color>
+
+    <color name="color_navy2">#458CBE</color>
+
+    <color name="color_purple1">#5A50C7</color>
+
+    <color name="color_purple2">#7751C8</color>
+
+
+    <color name="yellow_1">#F6CD41</color>
+
+    <color name="color_red_dark">#FC5858</color>
+
+    <color name="exam_question_bg">#F0F9F8</color>
+    <color name="exam_question_number_tv">#0D3A66</color>
+    <color name="grey_upload_button">#CED7E0</color>
+    <color name="exam_buttons_grey">#E4E8E6</color>
+    <color name="exam_buttons_red">#E85455</color>
+
+    <color name="color_pink">#D81B60</color>
+    <color name="persian_red">#cc3333</color>
+    <color name="first_row">#BADBCD</color>
+    <color name="second_row">#FCBCB7</color>
+    <color name="third_row">#c0d6fa</color>
+    <color name="forth_row">#d2d0d0</color>
+    <color name="a_blue">#5782B2</color>
+    <color name="a_grey">#F6F6F6</color>
+
+    <color name="light_a_blue">#F5F5FD</color>
+    <color name="text_light">#7E494747</color>
+
+    <color name="light_a_red">#F8E4E4</color>
+    <color name="a_red">#d32f2f</color>
+
+    <color name="ligh_a_green">#E1F1EA</color>
+    <color name="a_green">#209192</color>
+
+    <color name="a_purple">#ff971997</color>
+    <color name="light_a_purple">#fff8f1f9</color>
+
+    <color name="melo_pink">#f65555</color>
+
+
+    <color name="material_green">#00796B</color>
+
+
+    <color name="grey">#999999</color>
+
+
+    <color name="white_light">#f5f6f8</color>
+
+
+    <color name="colorPrimaryPix">#199d5d</color>
+    <color name="colorPrimaryLightPix">#2d6948</color>
+
+
+    <color name="student_comments">#C3D0E3</color>
+
+    <color name="blue_cadr">#0077b6</color>
+    <color name="blue_back2">#a9d6e5</color>
+
+
+
+    <color name="black_light">#333333</color>
+
+
+    <color name="card">#FFFFFF</color>
+    <color name="background">#FFFFFF</color>
+    <color name="font">#000000</color>
+
+    <color name="font_order">#4A4848</color>
+
+    <color name="back_order">#FFFFFF</color>
+
+
+</resources>
